@@ -1,0 +1,21 @@
+{
+  "arch": "x86_64",
+  "build": "py311h1fcbade_1",
+  "build_number": 1,
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2023.1.0,<2024.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "numpy >=1.23.5,<2.0a0",
+    "python >=3.11,<3.12.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "license": "MIT",
+  "license_family": "MIT",
+  "name": "numexpr",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1683221979047,
+  "version": "2.8.4"
+}

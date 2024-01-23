@@ -1,0 +1,20 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "more-itertools",
+    "python >=3.6"
+  ],
+  "fn": "jaraco.classes-3.2.1-pyhd3eb1b0_0.conda",
+  "license": "MIT",
+  "md5": "7f47c66b55e92b2724174847703df72f",
+  "name": "jaraco.classes",
+  "sha256": "0743b8780601d24dfc740dad0865d0aeb3046eff46fe8c447530359070301648",
+  "size": 9197,
+  "subdir": "noarch",
+  "timestamp": 1620983221000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/jaraco.classes-3.2.1-pyhd3eb1b0_0.conda",
+  "version": "3.2.1"
+}

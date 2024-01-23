@@ -1,0 +1,10 @@
+prefix=C:/ci/glog_1620733029418/_h_env/Library
+exec_prefix=C:/ci/glog_1620733029418/_h_env/Library/bin
+libdir=C:/ci/glog_1620733029418/_h_env/Library/lib
+includedir=C:/ci/glog_1620733029418/_h_env/Library/include
+
+Name: libglog
+Description: Google Log (glog) C++ logging framework
+Version: 0.5.0
+Libs: -L${libdir} -lglog
+Cflags: -I${includedir}

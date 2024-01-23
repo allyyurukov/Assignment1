@@ -1,0 +1,156 @@
+{
+  "appInfo" : {
+    "build" : "233.13135.95",
+    "buildDate" : "2023-12-19T13:51:00Z[UTC]",
+    "productCode" : "PY",
+    "generated" : "2024-01-22T07:32:53.0147706Z",
+    "os" : "Windows 11.0",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1087.9"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 16,
+    "maxNumberOfIndexingThreads" : 15,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "lab1.ipynb",
+    "times" : {
+      "scanningIds" : [ 0 ],
+      "contentLoadingVisibleTime" : 846233,
+      "retrievingChangedDuringIndexingFilesTime" : 623500,
+      "separateApplyingIndexesVisibleTime" : 72323459,
+      "updatingStart" : "2024-01-22T07:32:52.4165626Z",
+      "updatingEnd" : "2024-01-22T07:32:52.6064745Z",
+      "totalWallTimeWithPauses" : 190346900,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-01-22T07:32:52.4165626Z",
+      "dumbWallTimeWithoutPauses" : 190346900,
+      "dumbWallTimeWithPauses" : 190346900,
+      "totalWallTimeWithoutPauses" : 190346900
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 1,
+      "numberOfNothingToWriteFiles" : 0
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Jupyter",
+      "partOfTotalProcessingTime" : {
+        "part" : 105337100,
+        "total" : 105337100
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 722600,
+        "total" : 722600
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 17479,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 17479,
+        "totalCpuTime" : 105337100
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'allyy' (all roots)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 17479,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 105337100,
+          "total" : 105337100
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ {
+      "language" : "Jupyter",
+      "partOfTotalProcessingTime" : {
+        "part" : 105337100,
+        "total" : 105337100
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1445200,
+        "total" : 722600
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 17479,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 17479,
+        "totalCpuTime" : 105337100
+      }
+    }, {
+      "language" : "Notebook",
+      "partOfTotalProcessingTime" : {
+        "part" : 105337100,
+        "total" : 105337100
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1445200,
+        "total" : 722600
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 17479,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 17479,
+        "totalCpuTime" : 105337100
+      }
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 19191400,
+        "total" : 31841100
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 17479,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 17479,
+        "totalCpuTime" : 19191400
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 12649700,
+        "total" : 31841100
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 17479,
+      "indexValueChangerEvaluationSpeed" : {
+        "totalBytes" : 17479,
+        "totalCpuTime" : 12649700
+      }
+    } ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 623500
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'allyy' (all roots)",
+      "totalNumberOfIndexedFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 123359800,
+      "contentLoadingVisibleTime" : 846233,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 72323459
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}
